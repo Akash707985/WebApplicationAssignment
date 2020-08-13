@@ -1,0 +1,13 @@
+D:\Dot net\WebApplicationAssignment\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Dot net\WebApplicationAssignment\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Dot net\WebApplicationAssignment\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Dot net\WebApplicationAssignment\Calculator\Calculator\bin\Debug\MyCalculator.dll
+D:\Dot net\WebApplicationAssignment\Calculator\Calculator\bin\Debug\MyCalculator.pdb
+D:\Dot net\WebApplicationAssignment\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\Dot net\WebApplicationAssignment\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\Dot net\WebApplicationAssignment\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\Dot net\WebApplicationAssignment\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\Dot net\WebApplicationAssignment\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Dot net\WebApplicationAssignment\Calculator\Calculator\obj\Debug\Calculator.csproj.CopyComplete
+D:\Dot net\WebApplicationAssignment\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Dot net\WebApplicationAssignment\Calculator\Calculator\obj\Debug\Calculator.pdb

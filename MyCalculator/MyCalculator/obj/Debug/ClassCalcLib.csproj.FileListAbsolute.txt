@@ -1,0 +1,6 @@
+D:\Dot net\WebApplicationAssignment\MyCalculator\MyCalculator\bin\Debug\MyCalculator.dll
+D:\Dot net\WebApplicationAssignment\MyCalculator\MyCalculator\bin\Debug\MyCalculator.pdb
+D:\Dot net\WebApplicationAssignment\MyCalculator\MyCalculator\obj\Debug\ClassCalcLib.csprojAssemblyReference.cache
+D:\Dot net\WebApplicationAssignment\MyCalculator\MyCalculator\obj\Debug\ClassCalcLib.csproj.CoreCompileInputs.cache
+D:\Dot net\WebApplicationAssignment\MyCalculator\MyCalculator\obj\Debug\MyCalculator.dll
+D:\Dot net\WebApplicationAssignment\MyCalculator\MyCalculator\obj\Debug\MyCalculator.pdb
